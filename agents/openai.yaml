@@ -1,0 +1,6 @@
+interface:
+  display_name: "Everyday English｜日常英语口语与语法教练"
+  short_description: "Friendly everyday English speaking and grammar coach"
+  default_prompt: "Use $everyday-english to start a friendly everyday English speaking practice session."
+policy:
+  allow_implicit_invocation: true
